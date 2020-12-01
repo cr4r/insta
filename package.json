@@ -1,0 +1,29 @@
+{
+  "name": "instadownload",
+  "version": "1.0.0",
+  "description": "Instagram Downloader image,video",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cr4r/isnta.git"
+  },
+  "keywords": [
+    "insta",
+    "instagram",
+    "download",
+    "downloader"
+  ],
+  "author": "cr4r",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/cr4r/isnta/issues"
+  },
+  "homepage": "https://github.com/cr4r/isnta#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "request": "^2.88.2"
+  }
+}
