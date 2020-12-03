@@ -34,14 +34,28 @@ node index.js
 ## Edit Fitur
 ubah lah variabel mode di index.js.
 
+## instaDownloader
 ```bash
 {
   status: 'ok',
-  result: {
-    judul: 'Blake Lively’s Instagram video: “Blonde. James Blonde.  11 days til @therhythmsectionmovie #therhythmsection”',
-    from: 'https://www.instagram.com/p/B7i-6rvgMR4/',
-    url: 'https://instagram.fpku2-1.fna.fbcdn.net/v/t50.2886-16/84125582_195704598249796_3480270514273424028_n.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6InZ0c192b2RfdXJsZ2VuLjcyMC5mZWVkLmRlZmF1bHQiLCJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSJ9&_nc_ht=instagram.fpku2-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=EK5ThPtJRRkAX9jX-c6&vs=17861173591666959_2572998819&_nc_vs=HBksFQAYJEdJNm5Bd1ZFUVE4SC1yRUFBSnlTaU8yWFowd3dia1lMQUFBRhUAAsgBABUAGCRHSHZBOVFRRnFSYUp2UWdCQU9qS0VaQW1tMnNVYmtZTEFBQUYVAgLIAQAoABgAGwAVAAAmnq3Om5Cpuj8VAigCQzMsF0BOBDlYEGJOGBJkYXNoX2Jhc2VsaW5lXzFfdjERAHXqBwA%3D&oe=5FC8747B&oh=820f4cc1cab8ed3b6d61fec048d2ff91'
-  }
+  judul: 'Blake Lively’s Instagram video: “Blonde. James Blonde.  11 days til @therhythmsectionmovie #therhythmsection”',
+  from: 'https://www.instagram.com/p/B7i-6rvgMR4/',
+  url: 'https://instagram.fplm3-1.fna.fbcdn.net/v/t50.2886-16/84125582_195704598249796_3480270514273424028_n.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6InZ0c192b2RfdXJsZ2VuLjcyMC5mZWVkLmRlZmF1bHQiLCJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSJ9&_nc_ht=instagram.fplm3-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=v-_V0XbBNFYAX9kyLnO&vs=17861173591666959_2572998819&_nc_vs=HBksFQAYJEdJNm5Bd1ZFUVE4SC1yRUFBSnlTaU8yWFowd3dia1lMQUFBRhUAAsgBABUAGCRHSHZBOVFRRnFSYUp2UWdCQU9qS0VaQW1tMnNVYmtZTEFBQUYVAgLIAQAoABgAGwAVAAAmnq3Om5Cpuj8VAigCQzMsF0BOBDlYEGJOGBJkYXNoX2Jhc2VsaW5lXzFfdjERAHXqBwA%3D&oe=5FCA6EBB&oh=1f08e3425be4387b6bbd1c4e3e2e5f90',
+  type: 'video'
+}
+```
+
+## igStalk
+```bash
+{
+  status: 'ok',
+  username: 'myfabolouslife',
+  followers: 7776205,
+  following: 995,
+  fullnname: 'Fabolous',
+  fullPic: 'https://instagram.fplm3-1.fna.fbcdn.net/v/t51.2885-19/s320x320/72707218_2570162159888475_1944977022325358592_n.jpg?_nc_ht=instagram.fplm3-1.fna.fbcdn.net&_nc_cat=1&_nc_ohc=9mk-hfanUQEAX9w22m1&tp=1&oh=139c5b095972625569ffadb6850d887e&oe=5FF1A1FD',
+  jumFoto: 6900,
+  jumVideo: 55
 }
 ```
 
